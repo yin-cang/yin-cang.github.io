@@ -1,40 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>hello2-word</title>
-    <url>/2023/06/15/hello-world-2/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>aiyc-categories</category>
-      </categories>
-  </entry>
-  <entry>
     <title>hello1-word</title>
     <url>/2023/06/15/hello-world-1/</url>
     <content><![CDATA[]]></content>
       <tags>
         <tag>Hello word</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>hello2-word</title>
-    <url>/2023/06/15/hello-world-3/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>aiyc-categories</category>
-        <category>Hello</category>
-        <category>word</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>测试</title>
-    <url>/2023/06/15/%E6%B5%8B%E8%AF%95/</url>
-    <content><![CDATA[<h1 id="XXL-JOB"><a href="#XXL-JOB" class="headerlink" title="XXL-JOB"></a>XXL-JOB</h1><h2 id="漏洞简介"><a href="#漏洞简介" class="headerlink" title="漏洞简介"></a>漏洞简介</h2><h2 id="利用条件"><a href="#利用条件" class="headerlink" title="利用条件"></a>利用条件</h2><h3 id=""><a href="#" class="headerlink" title=""></a></h3><p><img src="https://github.com/yin-cang/yin-cang.github.io/blob/8812022fc0ab61b17519d3ed858a0fa5356ee090/images/QQ%E6%88%AA%E5%9B%BE20230614212234.png" alt="图片"><br>‍</p>
-<p>‍</p>
-]]></content>
-      <categories>
-        <category>aiyc-categories</category>
-      </categories>
   </entry>
   <entry>
     <title>Hello World</title>
@@ -53,5 +25,35 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>测试</title>
+    <url>/2023/06/15/%E6%B5%8B%E8%AF%95/</url>
+    <content><![CDATA[<h1 id="XXL-JOB"><a href="#XXL-JOB" class="headerlink" title="XXL-JOB"></a>XXL-JOB</h1><h2 id="漏洞简介"><a href="#漏洞简介" class="headerlink" title="漏洞简介"></a>漏洞简介</h2><h2 id="利用条件"><a href="#利用条件" class="headerlink" title="利用条件"></a>利用条件</h2><img src="https://github.com/yin-cang/yin-cang.github.io/blob/8812022fc0ab61b17519d3ed858a0fa5356ee090/images/QQ%E6%88%AA%E5%9B%BE20230614212234.png?raw=true" style="zoom:50%;" />
+
+<p>‍</p>
+<p>‍</p>
+]]></content>
+      <categories>
+        <category>aiyc-categories</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>hello2-word</title>
+    <url>/2023/06/15/hello-world-3/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>aiyc-categories</category>
+        <category>Hello</category>
+        <category>word</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>hello2-word</title>
+    <url>/2023/06/15/hello-world-2/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>aiyc-categories</category>
+      </categories>
   </entry>
 </search>
