@@ -32,6 +32,21 @@
   </entry>
   
   <entry>
+    <title>hello2-word</title>
+    <link href="http://example.com/2023/06/15/hello-world-2/"/>
+    <id>http://example.com/2023/06/15/hello-world-2/</id>
+    <published>2023-06-15T04:06:54.000Z</published>
+    <updated>2023-06-15T03:57:16.889Z</updated>
+    
+    
+    
+    
+    <category term="aiyc-categories" scheme="http://example.com/categories/aiyc-categories/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>测试</title>
     <link href="http://example.com/2023/06/15/%E6%B5%8B%E8%AF%95/"/>
     <id>http://example.com/2023/06/15/%E6%B5%8B%E8%AF%95/</id>
@@ -68,21 +83,6 @@
     <category term="Hello" scheme="http://example.com/categories/aiyc-categories/Hello/"/>
     
     <category term="word" scheme="http://example.com/categories/aiyc-categories/Hello/word/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>hello2-word</title>
-    <link href="http://example.com/2023/06/15/hello-world-2/"/>
-    <id>http://example.com/2023/06/15/hello-world-2/</id>
-    <published>2023-06-15T04:06:54.000Z</published>
-    <updated>2023-06-15T03:57:16.889Z</updated>
-    
-    
-    
-    
-    <category term="aiyc-categories" scheme="http://example.com/categories/aiyc-categories/"/>
     
     
   </entry>
